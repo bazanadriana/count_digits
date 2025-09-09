@@ -38,9 +38,9 @@ and outputs the total count of each class into a CSV file.
 - git clone https://github.com/bazanadriana/count_digits.git
 - cd count_digits
 2. Install dependencies
-- npm install
+npm install
 3. Run the digit counter
-- node count_digits.js /path/to/digits --preview
+node count_digits.js /path/to/digits --preview
 
 ---
 
